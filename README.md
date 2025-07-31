@@ -43,5 +43,3 @@
 ---
 
 
-
-*Last updated on July 31, 2025*
