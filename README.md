@@ -8,7 +8,7 @@
 - 🌐 I’m interested in Web Development and building AI-powered tools.
 - 🔭 Currently working on projects involving React, Firebase, and AI integrations.
 - 💬 Ask me about React, Firebase, Python, or Verilog!
-- 🏆 Participating in open-source programs like GSSoC and contributing to Apache Airflow.
+- 🏆 Participating in open-source programs like GSSoC.
 
 ---
 
