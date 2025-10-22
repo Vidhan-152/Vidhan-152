@@ -26,6 +26,12 @@
 
 ---
 
+### 🪪 Holopin Board
+
+[![An image of @vidhan152's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vidhan152)](https://holopin.io/@vidhan152)
+
+---
+
 ### 📫 Connect with Me
 
 <div align="left">
@@ -41,5 +47,3 @@
 </div>
 
 ---
-
-
