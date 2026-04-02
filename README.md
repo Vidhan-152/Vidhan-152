@@ -12,6 +12,27 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vidhan-152&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidhan-152&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhan-152&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vidhan-152/Vidhan-152/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ### 🛠️ Languages and Tools
 
 <div align="left">
@@ -28,7 +49,7 @@
 
 ### 🪪 Holopin Board
 
-[![An image of @vidhan152's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vidhan152)](https://holopin.io/@vidhan152)
+[![An image of @vidhan152's Holopin badges](https://holopin.me/vidhan152)](https://holopin.io/@vidhan152)
 
 ---
 
