@@ -15,16 +15,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vidhan-152&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidhan-152&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhan-152&layout=compact&theme=tokyonight" />
-</p>
-
----
----
 
 ### 🛠️ Languages and Tools
 
