@@ -24,13 +24,6 @@
 </p>
 
 ---
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vidhan-152/Vidhan-152/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 ### 🛠️ Languages and Tools
