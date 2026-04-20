@@ -7,7 +7,7 @@
 - 🎓 I’m currently studying Computer Science Engineering.
 - 🌐 I’m interested in Web Development and building AI-powered tools.
 - 🔭 Currently working on projects involving React, Firebase, and AI integrations.
-- 💬 Ask me about React, Firebase, Python, or Verilog!
+- 💬 Ask me about React, Firebase, Python
 - 🏆 Participating in open-source programs like GSSoC.
 
 ---
